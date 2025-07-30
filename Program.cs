@@ -9,6 +9,7 @@ Console.WriteLine("3 - Exit");
 Console.Write("Your choice: ");
 string? choice = Console.ReadLine();
 
+
 if (choice == "1")
 {
     Console.Write("Username: ");
@@ -40,6 +41,67 @@ else
     Console.WriteLine("Exiting the application.");
     return;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
